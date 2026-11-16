@@ -72,13 +72,6 @@ I work across the AI and data lifecycle: exploring and preparing data, building 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=GazalaSayyad&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GazalaSayyad&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
 </p>
-
-### Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GazalaSayyad&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph">
-</p>
-
 ---
 
 <p align="center">
